@@ -109,4 +109,20 @@ pip install -r requirements.txt
 
 ---
 
-## 
+## 🌟 Future Improvements
+
+- Deploy as a web application (Streamlit / Flask)
+- Use Deep Learning models for better accuracy
+- Integrate real-time health data input
+- Improve dataset size and diversity
+
+---
+
+## 👨‍💻 Author
+Rajanya Saha
+B.Tech CSE (AI & ML)
+
+---
+
+## ⭐ If you like this project
+Give it a ⭐ on GitHub and share with others!
