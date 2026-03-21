@@ -91,4 +91,22 @@ This project uses machine learning techniques to:
 
 ---
 
-## 📂 Project Structure
+## ⚙️ Installation & Usage
+
+1. Clone the repository:
+```
+git clone https://github.com/RajanyaSaha-27/Cardio_Vascular_Prediction_and_Analysis.git
+```
+2. Navigate to project folder:
+```
+cd Cardio_Vascular_Prediction_and_Analysis
+```
+3. Install dependencies:
+```
+pip install -r requirements.txt
+```
+4. Run the notebook / script
+
+---
+
+## 
